@@ -9,7 +9,7 @@
 ![Project 1](./assets/P1.png)
 ## What I have learn in this project
 I have learn about HTML tags, structure of HTML and how to make a web page beautiful with some properties of CSS like positioning and z-index.
-## Honest Time Spent
+## Time Spent
 I spent 5 hours to complete this project.
 ## Live Link
 You can preview the project [Here](https://designers-site.netlify.app/)
